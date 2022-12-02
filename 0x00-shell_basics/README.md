@@ -14,3 +14,5 @@
 "creates a directory named my first directory in the /tmp/ directory"
 #!/bin/bash
 "Move the file betty from /tmp/ to /tmp/my_first_directory"
+#!/bin/bash
+"Delete the file betty"
