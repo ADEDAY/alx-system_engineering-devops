@@ -18,3 +18,5 @@
 "Delete the file betty"
 #!/bin/bash
 "Delete the directory my_first_directory that is in the /tmp directory"
+#!/bin/bash
+" script that changes the working directory to the previous one"
