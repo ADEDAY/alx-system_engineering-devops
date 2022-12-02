@@ -10,3 +10,5 @@
 "Display current directory contents, including hidden files (starting with .). Use the long format"
 #!/bin/bash
 "Display current directory contents"
+#!/bin/bash
+"creates a directory named my first directory in the /tmp/ directory"
