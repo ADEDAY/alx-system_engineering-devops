@@ -18,3 +18,5 @@
 "sets the permission to the file hello as follows: Owner: no permission at all, Group: no permission at all, Other users: all the permissions"
 #!/bin/bash
 "sets the mode of the file hello to this"
+#!/bin/bash
+"sets the mode of the file hello the same as olleh’s mode"
