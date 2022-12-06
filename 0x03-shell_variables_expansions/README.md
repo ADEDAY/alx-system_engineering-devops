@@ -1,2 +1,2 @@
 #!/bin/bash
-'Add /action to the PATH. /action should be the last directory the shell looks into when looking for a program.'
+'Write a script that converts a number from base 10 to base 16.'
