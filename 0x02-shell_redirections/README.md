@@ -38,3 +38,6 @@
 "Write a command that finds all empty files and directories in the current directory and all sub-directories."
 #!/bin/bash
 "Write a script that parses web servers logs in TSV format as input and displays the 11 hosts or IP addresses."
+#!/bin/bash
+"Create a script that decodes acrostics that use the first letter of each line."
+
