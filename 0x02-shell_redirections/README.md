@@ -42,3 +42,5 @@
 "Create a script that decodes acrostics that use the first letter of each line."
 #!/bin/bash
 "Write a command that finds all empty files and directories in the current directory and all sub-directories."
+#!/bin/bash
+"Write a script that lists all the files with a .gif extension in the current directory and all its sub-directories."
